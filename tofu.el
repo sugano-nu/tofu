@@ -9,8 +9,8 @@
 ;; Copyright (C) 1978 - 2015 by Nobuhide Tsuda
 ;; CAUTION: Public release and redistribution of translation of Tofu game program codes
 ;;          without permission of the original author Nobuhide Tsuda (ntsuda@master.email.ne.jp) is strictly prohibited.
-;; 源著作権は津田伸秀さん (ntsuda@master.email.ne.jp) にあります。
-;; 注意：「源著作権者に無断で移植し，公開または第三者に配布することは禁止します．」
+;; 原著作権は津田伸秀さん (ntsuda@master.email.ne.jp) にあります。
+;; 注意：「原著作権者に無断で移植し，公開または第三者に配布することは禁止します．」
 ;;
 ;; オリジナルの考案・開発者の津田伸秀さんに感謝し、敬意を表します。
 ;; また、 Common Lisp 版を作成された 竹岡尚三さんに敬意を表します。
