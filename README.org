@@ -1,4 +1,4 @@
-#+TITLE: イスカンダルのトーフ屋ゲーム Emacs Lisp版 Ver. 0.90
+#+TITLE: イスカンダルのトーフ屋ゲーム Emacs Lisp版
 #+STARTUP: indent content
 
 * イスカンダルのトーフ屋ゲーム Emacs Lisp版 Ver. 0.90
